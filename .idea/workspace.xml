@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8945c2c0-2d1e-4d1a-9b93-1d3990e795e7" name="Changes" comment="Added seventh file">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <updated>1667211557193</updated>
       <workItem from="1667211558833" duration="1992000" />
       <workItem from="1667215054544" duration="816000" />
-      <workItem from="1667221623865" duration="1122000" />
+      <workItem from="1667221623865" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="Modified fourth file in the feature branch">
       <created>1667212275961</created>
